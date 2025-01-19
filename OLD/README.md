@@ -1,1 +1,0 @@
-# spcoin-jmeter-tests
